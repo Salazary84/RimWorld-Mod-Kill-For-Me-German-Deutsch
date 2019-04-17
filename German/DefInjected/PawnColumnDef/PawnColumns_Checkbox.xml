@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-	<KFM_KillState.headerTip>Töten erlaubt: Lassen Sie alle Tiere töten</KFM_KillState.headerTip>
-	<KFM_Pack.headerTip>Tier beim Packen beeinflussen</KFM_Pack.headerTip>
-	<KFM_PC_Kill.headerTip>Markiere Tiere, die mit dem Rudel getötet werden sollen.</KFM_PC_Kill.headerTip>
+	<KFM_KillState.headerTip>Töten erlaubt: Erlaubt es deine Tiere zu töten</KFM_KillState.headerTip>
+	<KFM_Pack.headerTip>Tier beim zusammstellen beeinflussen</KFM_Pack.headerTip>
+	<KFM_PC_Kill.headerTip>Markiere Tiere, die vom Rudel getötet werden sollen.</KFM_PC_Kill.headerTip>
 	<KFM_PC_DKill.headerTip>Markiere Tiere, die nicht vom Rudel getötet werden sollen.</KFM_PC_DKill.headerTip>
-	<KFM_Pack.label>Packen Sie</KFM_Pack.label>
+	<KFM_Pack.label>Rudel</KFM_Pack.label>
 </LanguageData>
